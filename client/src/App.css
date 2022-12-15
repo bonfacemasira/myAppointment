@@ -36,3 +36,39 @@
     transform: rotate(360deg);
   }
 } */
+
+/* Header */
+.Header {
+  background: white;
+  padding: 10px 50px;
+}
+
+a.social {
+  margin:0 1rem;
+  transiton: 250ms;
+  display: inline-block;
+}
+
+a.social:hover {
+  transform: translateY(-2px);
+}
+
+a.youtube {
+  color: #eb3223;
+}
+
+a.facebook {
+  color: #4968ad;
+}
+
+a.twitter {
+  color: #49a1eb;
+}
+
+a.tiktok {
+  color: black;
+}
+
+a.instagram {
+  color: #E4405F;
+}
