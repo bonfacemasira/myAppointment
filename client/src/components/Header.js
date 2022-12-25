@@ -13,6 +13,7 @@ function Header() {
       <a
         className="instagram social"
         target="_blank"
+        rel="noreferrer"
         aria-label="Instagram"
         href="https://www.instagram.com"
       >
@@ -21,6 +22,7 @@ function Header() {
       <a
         className="twitter social"
         target="_blank"
+        rel="noreferrer"
         aria-label="Twitter"
         href="https://www.twitter.com"
       >
@@ -29,6 +31,7 @@ function Header() {
       <a
         className="facebook social"
         target="_blank"
+        rel="noreferrer"
         aria-label="Facebook"
         href="https://www.facebook.com"
       >
@@ -37,6 +40,7 @@ function Header() {
       <a
         className="tiktok social"
         target="_blank"
+        rel="noreferrer"
         aria-label="TikTok"
         href="https://www.tiktok.com"
       >
@@ -45,6 +49,7 @@ function Header() {
       <a
         className="youtube social"
         target="_blank"
+        rel="noreferrer"
         aria-label="YouTube"
         href="https://www.youtube.com"
       >
