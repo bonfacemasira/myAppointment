@@ -81,3 +81,15 @@ a.instagram {
 
 /* Footer */
 Footer {}
+
+.footer-row{
+  display: flex;
+  flex-direction: row;
+  width: 90%;
+  margin: auto;
+}
+
+.footer-column{
+  width: 30%;
+  margin: auto;
+}
